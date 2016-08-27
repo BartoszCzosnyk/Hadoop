@@ -1,0 +1,1 @@
+SELECT * FROM geolocation LIMIT 100;
